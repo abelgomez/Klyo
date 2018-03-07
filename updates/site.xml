@@ -4,7 +4,7 @@
    <description name="Klyo" url="http://abelgomez.github.io/klyo/updates">
       The Klyo temporal persistence layer
    </description>
-   <feature url="features/io.github.abelgomez.klyo.feature_0.1.0.201803071859.jar" id="io.github.abelgomez.klyo.feature" version="0.1.0.201803071859">
+   <feature url="features/io.github.abelgomez.klyo.feature_0.1.0.201803072030.jar" id="io.github.abelgomez.klyo.feature" version="0.1.0.201803072030">
       <category name="Klyo"/>
    </feature>
    <category-def name="Klyo" label="Klyo">
