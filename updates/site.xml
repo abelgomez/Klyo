@@ -10,6 +10,9 @@
    <feature url="features/io.github.abelgomez.klyo.feature_0.1.1.201803261757.jar" id="io.github.abelgomez.klyo.feature" version="0.1.1.201803261757">
       <category name="Klyo"/>
    </feature>
+   <feature url="features/io.github.abelgomez.klyo.feature_0.2.0.201804070055.jar" id="io.github.abelgomez.klyo.feature" version="0.2.0.201804070055">
+      <category name="Klyo"/>
+   </feature>
    <category-def name="Klyo" label="Klyo">
       <description>
          The Klyo temporal persistence layer
